@@ -1,4 +1,4 @@
-# Eric's dotfiles
+# Nic's dotfiles
 
 My dotfiles! :D I use these to customize my terminal wherever I go.
 
